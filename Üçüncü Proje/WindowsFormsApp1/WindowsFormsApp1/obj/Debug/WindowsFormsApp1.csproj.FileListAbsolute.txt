@@ -1,0 +1,102 @@
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Fuzzy.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Genetic.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.MachineLearning.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Neuro.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Fuzzy.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Genetic.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.MachineLearning.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Neuro.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dursun\Desktop\Yeni klasör (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Fuzzy.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Genetic.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.MachineLearning.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Neuro.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Controls.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Fuzzy.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Genetic.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.MachineLearning.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Neuro.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.VFW.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dursun\Desktop\tehhffjdzgdfgdfg\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
