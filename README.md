@@ -1,2 +1,1 @@
-# 3.Proje-Kol-pozisyonu-tan-ma-servo-motor
-Kol Pozisyon
+Kol Pozisyonuna Göre Servo Motor Kontrolü
