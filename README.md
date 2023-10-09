@@ -1,1 +1,1 @@
-Kol Pozisyonuna Göre Servo Motor Kontrolü
+Kol Pozisyon ile Servo Motor Kontrolü
